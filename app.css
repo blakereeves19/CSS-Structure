@@ -1,15 +1,3 @@
-[for="email"] {
-    font-weight: bold;
-}
-
-.text-center {
-    text-align: center;
-}
-
-.text-blue {
-    color: blue
-}
-
-#submitButton {
-    background: red
+h1 {
+    color: rgb(0, 0, 0, 0.1);
 }
